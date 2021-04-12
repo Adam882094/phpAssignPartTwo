@@ -10,10 +10,11 @@ html {
   text-align: left;
   padding: 12px;
   text-decoration: none;
-  font-size: 18px;
-  line-height: 25px;
-  border-radius: 4px;
+  font-size: 19px;
+  line-height: 30px;
+
 }
-.button :hover {
-    color: red;
+.button a:hover {
+    background-color: purple;
+    color: gold;
 }
