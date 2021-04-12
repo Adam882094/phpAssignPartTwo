@@ -3,7 +3,7 @@ include 'navbar.php';
 ?>
 
 <main>
-    <h1>Registration To Admin</h1>
+    <h1><br>Registration To Admin</br></h1>
     <form method="post" action="register-to-database.php">
         <fieldset class="form-group">
             <label for="email">Email:</label>
